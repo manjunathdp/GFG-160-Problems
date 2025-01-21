@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Arrays;
 
-public class PushZerosToEnd {
+public class PushZerosToEnd_2 {
     public static void pushZerosToEnd(int[] arr) {
         // code here
         int nonZero = 0;
